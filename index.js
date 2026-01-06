@@ -6,3 +6,8 @@ console.log(`My name is ${botName} and I live on ${botLocation}.`);
 console.log(`My favorite programming language is ${favoriteLanguage}.`);
 let codingFact = `${favoriteLanguage} is tricky language`;
 console.log(codingFact);
+codingFact = `${favoriteLanguage} is a programing language`;
+console.log(codingFact);
+codingFact = `${favoriteLanguage} is a pure language`;
+console.log(codingFact);
+console.log(`It was fun sharing these facts with you. Goodbye! - ${botName} from ${botLocation}.`);
